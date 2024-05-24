@@ -1,0 +1,6 @@
+{
+    "terminal.explorerKind": "integrated",
+    "terminal.integrated.accessibleViewFocusOnCommandExecution": true,
+    "git.terminalGitEditor": false,
+    "git.terminalAuthentication": true
+}
